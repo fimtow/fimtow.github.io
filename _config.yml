@@ -30,7 +30,7 @@ twitter_username: fimtow
 github_username:  fimtow
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
