@@ -18,7 +18,7 @@ Le joueur peut choisir le nombre de lettres (de 6 à 10), la difficulté du voca
 
 Le jeu a été réalisé en language **C** en utlisant la bibliothèque graphique **SDL 2**.
 
-### Lien vers le repo du projet [ici](http://www.google.com).
+### Lien vers le repo du projet [ici](http://www.github.com/fimtow/motus).
 
 ![motus](./images/motus.png)
 
