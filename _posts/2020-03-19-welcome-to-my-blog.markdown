@@ -6,5 +6,3 @@ categories: jekyll update
 ---
 
 First blog post.
-
-I will write articles about game development.
