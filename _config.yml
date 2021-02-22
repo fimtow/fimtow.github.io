@@ -27,7 +27,7 @@ url: "https://fimtow.com" # the base hostname & protocol for your site, e.g. htt
 twitter_username: fimtow
 github_username:  fimtow
 
-permalink: none
+permalink: /:title
 
 # Build settings
 theme: minima
