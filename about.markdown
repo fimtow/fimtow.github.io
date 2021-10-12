@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Software Engineering Student at ENSIAS and game development enthusiast.
+Software Engineering Student at ENSIMAG.
