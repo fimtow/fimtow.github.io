@@ -51,6 +51,14 @@
     padding: 1.25rem;
   }
 
+  .site-header {
+    border-top: 0px;
+    border-bottom: 1px solid $grey-color-light;
+    min-height: $spacing-unit * 1.865;
+
+    // Positioning context for the mobile navigation icon
+    position: relative;
+  }
 
 
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
